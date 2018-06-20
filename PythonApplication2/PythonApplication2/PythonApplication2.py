@@ -56,12 +56,14 @@ print(" ")
 
 #Start of scenarios
 print("Whilst traveling through a forest, " + user + """ and Patsy Discover two armourclad men fighting eachother, both with their
-faces covered. As the fight ensues, one of the men, dressed in black armour defeats the other, killing him whil he does so. As
+faces covered. As the fight ensues, one of the men, dressed in black armour defeats the other, killing him while he does so. As
 he is victorious he retreives his sword and stands tall. What do you do?""")
 blacknight1 = input("Do you leave, or do you approach the armed man? ")
 if blacknight1 == "approach":
     print("You chose to approach the man. As " + user + " approaches, he praises the man for his victory.")
 elif blacknight1 == "leave":
     print("You chose to leave the forest, as to not anger the man and end up in the same situation as the man before you")
+elif blacknight1 == "hand him the communist manifesto":
+    print("You have solved the worlds problems. Congradulations!")
 else:
     print("You chose to stare blankly at the man and not to anything. How curious?")
