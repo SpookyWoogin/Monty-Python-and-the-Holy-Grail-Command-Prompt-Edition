@@ -20,4 +20,4 @@ Owner: Colin Gideon(SpookyWoogin)
 
 Partner in Crime #1: Bryan Mortimore(ThePlanetPluto)
 
-Partner in Crime #2....?: Ethan *REDACTED*(Spazdiesfirst360)
+Partner in Crime #2....?: Ethan Rugg(Spazdiesfirst360)
